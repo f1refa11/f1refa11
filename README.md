@@ -1,3 +1,5 @@
+80% python, 20% web
+
 alt nicknames: f1refa11(github+twitch), 4irefall(twitter), firekonstantin(email+tg), FireFall_(legacy - won't be used for new accounts; reddit)
 
 currently working on: [ShootBox](https://github.com/f1refa11/ShootBox)
