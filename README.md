@@ -2,7 +2,7 @@
 
 alt nicknames: f1refa11(github+twitch), 4irefall(twitter), firekonstantin(email+tg), FireFall_(legacy - won't be used for new accounts; reddit)
 
-currently working on: [ShootBox](https://github.com/f1refa11/ShootBox)
+currently working on: [ShootBox](https://github.com/f1refa11/ShootBox), FRFL;
 
 featured projects:
 - [ShootBox](https://github.com/f1refa11/ShootBox) - 2D Top-down sandbox, Python+Pygame
