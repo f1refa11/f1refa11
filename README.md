@@ -11,8 +11,8 @@ featured projects:
 - [ev3dev-snake](https://github.com/f1refa11/ev3dev-snake) - lightweight snake game for LEGO MINDSTORMS EV3(with custom OS)
 
 pending projects(hasn't started or looking for maintainers):
-- [smb4web](https://github.com/f1refa11/smb4web) - Samba Control Panel in browser
 - [favmv](https://github.com/f1refa11/favmv) - Configurable Music Vizualizer
+- python-compat - Make your Python script supported to older versions up to 3.5!
 
 donate: [click](https://www.donationalerts.com/r/firefall) <br />
 monero(XMR): 4BEfPDSFVTHWgRreALoYNhBsrCnbdajjPcZqKzzV1JmpCSB4c1BJH71CuXLdPBYo8whaABDY4HFGU53WpdVx9fwXMo7KmVY <br />
