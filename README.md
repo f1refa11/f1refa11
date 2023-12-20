@@ -22,3 +22,7 @@ monero(XMR): 4BEfPDSFVTHWgRreALoYNhBsrCnbdajjPcZqKzzV1JmpCSB4c1BJH71CuXLdPBYo8wh
 
 donations:<br />
 *none*
+
+![](https://komarev.com/ghpvc/?username=f1refa11)
+
+metrics lol
